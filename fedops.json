@@ -1,0 +1,11 @@
+{
+    "appName": "crash-tdd-dec-2019",
+    "notifications": {
+      "slack_channels": [
+        "fedops-urgent-default"
+      ]
+    },
+    "deploy_annotations": [
+      "crash-tdd-dec-2019"
+    ]
+  }
